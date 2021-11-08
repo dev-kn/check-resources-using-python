@@ -1,2 +1,2 @@
-# check-resources
+# Check-PC-Resources using Python
  
